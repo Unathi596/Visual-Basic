@@ -1,0 +1,12 @@
+D:\Informatics 1B Concepts\Classes and Objects\UJModule\bin\Debug\UJModule.exe.config
+D:\Informatics 1B Concepts\Classes and Objects\UJModule\bin\Debug\UJModule.exe
+D:\Informatics 1B Concepts\Classes and Objects\UJModule\bin\Debug\UJModule.pdb
+D:\Informatics 1B Concepts\Classes and Objects\UJModule\bin\Debug\UJModule.xml
+D:\Informatics 1B Concepts\Classes and Objects\UJModule\obj\Debug\UJModule.vbproj.AssemblyReference.cache
+D:\Informatics 1B Concepts\Classes and Objects\UJModule\obj\Debug\UJModule.frmModule.resources
+D:\Informatics 1B Concepts\Classes and Objects\UJModule\obj\Debug\UJModule.Resources.resources
+D:\Informatics 1B Concepts\Classes and Objects\UJModule\obj\Debug\UJModule.vbproj.GenerateResource.cache
+D:\Informatics 1B Concepts\Classes and Objects\UJModule\obj\Debug\UJModule.vbproj.CoreCompileInputs.cache
+D:\Informatics 1B Concepts\Classes and Objects\UJModule\obj\Debug\UJModule.exe
+D:\Informatics 1B Concepts\Classes and Objects\UJModule\obj\Debug\UJModule.xml
+D:\Informatics 1B Concepts\Classes and Objects\UJModule\obj\Debug\UJModule.pdb
